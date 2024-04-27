@@ -1,0 +1,15 @@
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\bin\Debug\net7.0\Vehicle Parts Store.exe
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\bin\Debug\net7.0\Vehicle Parts Store.deps.json
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\bin\Debug\net7.0\Vehicle Parts Store.runtimeconfig.json
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\bin\Debug\net7.0\Vehicle Parts Store.dll
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\bin\Debug\net7.0\Vehicle Parts Store.pdb
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.csproj.AssemblyReference.cache
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.AssemblyInfoInputs.cache
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.AssemblyInfo.cs
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.csproj.CoreCompileInputs.cache
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.dll
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\refint\Vehicle Parts Store.dll
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.pdb
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\Vehicle Parts Store.genruntimeconfig.cache
+F:\c#\Vehicle Parts Store\Vehicle Parts Store\obj\Debug\net7.0\ref\Vehicle Parts Store.dll
